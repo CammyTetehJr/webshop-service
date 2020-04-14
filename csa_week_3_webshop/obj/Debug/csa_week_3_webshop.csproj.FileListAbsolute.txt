@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\obj\Debug\csa_week_3_webshop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\bin\Debug\csa_week_3_webshop.dll.config
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\bin\Debug\csa_week_3_webshop.dll
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\bin\Debug\csa_week_3_webshop.pdb
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\obj\Debug\csa_week_3_webshop.dll
+C:\Users\User\source\repos\csa_week_3_webshop\csa_week_3_webshop\obj\Debug\csa_week_3_webshop.pdb
